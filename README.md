@@ -1,6 +1,3 @@
-Hi,Michael.
-Hopefully, you are doing great!
-I am so grateful for delivering our simulating bot.
 There, The movements are based on the concept of bezier curve so it generates human-like mouse movements.
 You might start this from "startSimulating.sh".
 Because I may not be always in freelancer.com and it is not recommended emulating or bot by their rule, It could be better to use Skype.
